@@ -43,8 +43,8 @@ It then selects the best combination of stocks to maximize profit while staying 
 ![Program Output](Sample_IO_OP.png)
 
 ## **Contributors**  
-- **Deboleena Bhowmik**  
-- **Deepanjali Singh**  
+- [@bhowmikdebo](https://github.com/bhowmikdebo)  
+- [@Deepanjali15](https://github.com/Deepanjali15)  
 
 ## **License**  
 This project is open-source under the **MIT License**.  
